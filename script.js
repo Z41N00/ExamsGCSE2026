@@ -1,13 +1,13 @@
 
 // Weekly schedule setup and animations
 const schedule = {
-  "Monday": ["Psychology (2:00 - 4:00)"],
-  "Tuesday": ["Chemistry (6:00 - 8:00)"],
-  "Wednesday": ["Biology (10:00 - 12:00)"],
-  "Thursday": ["Physics (14:00 - 16:00)"],
-  "Friday": ["Computer Science (18:00 - 20:00)"],
+  "Monday": ["Psychology (6:00 - 20::00)"],
+  "Tuesday": ["Chemistry (6:00 - 20:00)"],
+  "Wednesday": ["Biology (6:00 - 20:00)"],
+  "Thursday": ["Physics (6:00 - 20:00)"],
+  "Friday": ["Computer Science (6:00 - 20:00)"],
   "Saturday": ["Maths (10:00 - 12:00)", "English Language (12:00 - 14:00)"],
-  "Sunday": ["English Literature (10:00 - 12:00)", "Revision Catch-up (12:00 - 14:00)"]
+  "Sunday": ["English Literature (10:00 - 12:00)", "Revision Past Papers (12:00 - 14:00)"]
 };
 
 function populateWeek(){
