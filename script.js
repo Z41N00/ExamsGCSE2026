@@ -1,7 +1,7 @@
 
 // Weekly schedule setup and animations
 const schedule = {
-  "Monday": ["Psychology (6:00 - 20::00)"],
+  "Monday": ["Psychology (6:00 - 20:00)"],
   "Tuesday": ["Chemistry (6:00 - 20:00)"],
   "Wednesday": ["Biology (6:00 - 20:00)"],
   "Thursday": ["Physics (6:00 - 20:00)"],
